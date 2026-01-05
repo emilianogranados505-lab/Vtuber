@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Vtuber Studio",
+  "description": "Una aplicación para VTubers donde puedes subir tu propio avatar y conversar con una IA en tiempo real.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

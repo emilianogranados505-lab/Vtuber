@@ -1,0 +1,15 @@
+{
+  "appId": "com.vtuber.ai.studio",
+  "appName": "VTuber Studio AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
